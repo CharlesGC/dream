@@ -8,7 +8,7 @@
 
 ## JS
 
-- [理解JS中的原型-1](https://github.com/CharlesGC/dream/issues/2)
+- [理解JS中的原型](https://github.com/CharlesGC/dream/issues/2)
 
 # 前端工程师技能图谱
 
