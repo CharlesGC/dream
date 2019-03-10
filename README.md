@@ -6,6 +6,10 @@
 
 - [2019年3月面试题-瀚一数据](https://github.com/CharlesGC/dream/issues/1)
 
+## JS
+
+- [理解JS中的原型-1](https://github.com/CharlesGC/dream/issues/2)
+
 # 前端工程师技能图谱
 
 ![](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
