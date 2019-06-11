@@ -10,6 +10,10 @@
 
 - [理解JS中的原型](https://github.com/CharlesGC/dream/issues/2)
 
+## Git常用操作
+
+- [git操作记录](https://github.com/CharlesGC/dream/issues/4)
+
 # 前端工程师技能图谱
 
 ![](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
