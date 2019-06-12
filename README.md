@@ -12,7 +12,7 @@
 
 ## Git常用操作
 
-- [git操作记录](https://github.com/CharlesGC/dream/issues/4)
+- [git常用操作](https://github.com/CharlesGC/dream/issues/4)
 
 # 前端工程师技能图谱
 
