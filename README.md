@@ -10,9 +10,9 @@
 
 - [理解JS中的原型](https://github.com/CharlesGC/dream/issues/2)
 
-## Git常用操作
+## node
 
-- [git常用操作](https://github.com/CharlesGC/dream/issues/4)
+- [朴灵评注】JavaScript 运行机制详解：再谈Event Loop](https://github.com/CharlesGC/dream/issues/4)
 
 # 前端工程师技能图谱
 
