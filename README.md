@@ -14,6 +14,10 @@
 
 - [【朴灵评注】JavaScript 运行机制详解：再谈Event Loop](https://github.com/CharlesGC/dream/issues/5)
 
+## 阅读开源项目
+计划是每周阅读一个开源项目，主要利用下班后的空闲时间。
+
+
 # 前端工程师技能图谱
 
-![](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
+![](https://roadmap.sh/roadmaps/frontend.png)
